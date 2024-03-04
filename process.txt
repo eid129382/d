@@ -28,7 +28,6 @@ joeboxcontrol.exe
 ksdumperclient.exe
 xenservice.exe
 joeboxserver.exe
-devenv.exe
 IMMUNITYDEBUGGER.EXE
 ImportREC.exe
 reshacker.exe
